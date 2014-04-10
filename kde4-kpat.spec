@@ -6,12 +6,12 @@ Summary:	KDE solitaire patience game
 Summary(pl.UTF-8):	Pasjanse dla KDE
 Summary(pt_BR.UTF-8):	Versão do jogo 'Paciência' para o KDE
 Name:		kde4-%{orgname}
-Version:	4.12.3
+Version:	4.12.4
 Release:	1
 License:	GPL
 Group:		X11/Applications/Games
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	758fbbb629d1dd14eabc296790945817
+# Source0-md5:	1c3d685375e3d339a011d5fb7c90b8c6
 BuildRequires:	automoc4 >= 0.9.88
 BuildRequires:	cmake >= 2.8.0
 BuildRequires:	kde4-kdelibs-devel >= %{version}
